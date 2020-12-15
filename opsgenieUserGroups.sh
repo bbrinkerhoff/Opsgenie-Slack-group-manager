@@ -156,8 +156,8 @@ showHELP() {
   echo "    -t,--team                      Update user group members for the specified team."
   echo
   echo "${YELLOW}Usage:${BLUE}"
-  echo "    ./updateOncall.sh"
-  echo "    ./updateOncall.sh [-t,--team] [team]"
+  echo "    ./opsgenieUserGroups.sh"
+  echo "    ./opsgenieUserGroups.sh [-t,--team] [team]"
   echo "${RESET}"; exit 0; }
 
 
